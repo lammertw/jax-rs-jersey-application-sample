@@ -1,2 +1,8 @@
-/.gradle/
-/build/
+.DS_Store
+.gradle/
+.idea/
+out/
+build/
+*.iml
+classes/
+data/
