@@ -36,4 +36,4 @@ On this project, an application server used in a development cycle is:
 ./gradlew --daemon test
 ```
 
-Test 2
+Test 3
